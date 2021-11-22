@@ -1,0 +1,47 @@
+{
+  "chunk/0.css": "/public/css/0.1fbb0b4e.css",
+  "chunk/0.js": "/public/js/chunk/0.c3d93040.js",
+  "chunk/1.css": "/public/css/1.670a5828.css",
+  "chunk/1.js": "/public/js/chunk/1.f6f8a1a3.js",
+  "chunk/2.css": "/public/css/2.51c5b17b.css",
+  "chunk/2.js": "/public/js/chunk/2.a8039b38.js",
+  "chunk/3.js": "/public/js/chunk/3.50cdf7c8.js",
+  "admin/home.css": "/public/css/admin/home.c5858723.css",
+  "admin/home.js": "/public/js/chunk/admin/home.d83a9648.js",
+  "admin/login.js": "/public/js/chunk/admin/login.a91274c8.js",
+  "common.css": "/public/css/common.0d3cbe75.css",
+  "common.js": "/public/js/chunk/common.fb052fa6.js",
+  "runtime.js": "/public/js/runtime.fb40fc77.js",
+  "font/index.css": "/public/font/element-icons.732389de.ttf",
+  "font/font-awesome.min.css": "/public/font/fontawesome-webfont.fee66e71.woff",
+  "img/font-awesome.min.css": "/public/img/fontawesome-webfont.912ec66d.svg",
+  "img/logo.png": "/public/img/logo.0c5c1ada.png",
+  "deps": {
+    "admin/login.js": {
+      "js": [
+        "/public/js/runtime.fb40fc77.js",
+        "/public/js/chunk/common.fb052fa6.js",
+        "/public/js/chunk/admin/login.a91274c8.js"
+      ],
+      "css": [
+        "/public/css/common.0d3cbe75.css"
+      ]
+    },
+    "admin/home.js": {
+      "js": [
+        "/public/js/runtime.fb40fc77.js",
+        "/public/js/chunk/common.fb052fa6.js",
+        "/public/js/chunk/admin/home.d83a9648.js"
+      ],
+      "css": [
+        "/public/css/common.0d3cbe75.css",
+        "/public/css/admin/home.c5858723.css"
+      ]
+    }
+  },
+  "info": {
+    "publicPath": "/public/",
+    "buildPath": "public",
+    "mapped": true
+  }
+}

@@ -1,0 +1,10 @@
+node_modules/
+logs/
+run/
+.vscode/
+app/upload/*
+publish.tgz
+*prettier*
+publish*.tgz
+typings/app/*
+typings/config/*
