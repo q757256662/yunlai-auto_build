@@ -9,7 +9,7 @@
 
 ### Features
 
-* font-end typescript support ([beeaead](https://github.com/easy-team/egg-vue-typescript-boilerplate/commit/beeaead))
+* font-end typescript support ([beeaead](https://github.com/easy-team/egg-vue-typescript-boilerplate/commit/beeaead)).
 
 
 
